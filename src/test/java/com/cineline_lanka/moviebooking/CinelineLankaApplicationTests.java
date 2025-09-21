@@ -1,4 +1,4 @@
-package com.cineline_lanka.cineline_lanka;
+package com.cineline_lanka.moviebooking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
